@@ -2,6 +2,9 @@
 /porosity-private
 /porosity/packages/boost-vc140.1.63.0.0
 boost.1.63.0.0
+.cache
+.vscode
+*.o
 Makefile
 Makefile.in
 aclocal.m4
